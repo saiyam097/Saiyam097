@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I’m Saiyam 👋
 
-<!--
-**saiyam097/Saiyam097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 B.Tech CSE @ Galgotias | Web Dev Enthusiast | Idea Machine
 
-Here are some ideas to get you started:
+### 🔧 What I Build
+- 🛍️ **QR-based Storefront Platform** – Helping small businesses go digital with just a QR code.
+- 🤖 **Chatbot Integrated Tools** – Simplifying buyer/seller interaction.
+- 🕹️ Fun browser games like Rock-Paper-Scissors, Simon Says, and Tic-Tac-Toe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚒️ Tech Stack
+`React` `Tailwind` `JavaScript` `Node.js` `Three.js` `Java` `HTML/CSS`
+
+### 🧠 Currently Learning
+- API Integration | MongoDB | Auth Systems | AI Sales Predictions
+
+### 💭 Motto
+> "If they don’t give you a seat at the table, build your own damn table."
+
+---
+
+📬 Let’s connect:  
+[LinkedIn](https://www.linkedin.com/in/saiyam-srivastava-1ab2bb23a/)•  • [Mail](mailto:saiyamsrivastava74@gmail.com)
